@@ -17,6 +17,27 @@ Android app for scanning barcodes with the phone camera and sending them to a PC
 special software is required on the PC as this app uses the BluetoothHID API available on devices
 running Android 9 or greater.
 
+## 📚 Educational Resources
+
+**NEW!** Comprehensive BLE Cybersecurity & Pentesting Learning Wiki
+
+This repository now includes an extensive educational curriculum for learning BLE security, penetration testing, and digital locksmithing. Perfect for security students, professionals, and researchers.
+
+**[📖 Start Learning: BLE Security Wiki →](docs/README.md)**
+
+Topics covered:
+- BLE security fundamentals and attack vectors
+- HID injection techniques and defenses
+- BLE access control systems and smart lock security
+- Digital locksmith skills for physical security
+- Secure SMS Proxy integration for MFA testing
+- Hands-on exercises with real-world scenarios
+- Ethical hacking guidelines and responsible disclosure
+
+**[🚀 Quick Start Guide](docs/QUICKSTART.md)** | **[⚖️ Ethical Guidelines](docs/10-ethical-guidelines.md)** | **[🛠️ Tools & Resources](docs/reference/tools.md)**
+
+---
+
 ## Features
 
 - Supports a wide range of Linear and 2D-Codes thanks to
